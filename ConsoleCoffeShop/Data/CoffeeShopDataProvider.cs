@@ -2,7 +2,7 @@
 
 namespace ConsoleCoffeShop.Data;
 
-public class CoffeeShopDataPrivider
+public class CoffeeShopDataProvider
 {
     public IEnumerable<CoffeeShop> LoadShops()
     {
