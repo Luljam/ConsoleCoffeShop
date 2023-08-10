@@ -11,4 +11,8 @@ while (true)
     {
         break;
     }
+    else
+    {
+        Console.WriteLine($"Invalid command: {command}");
+    }
 }
